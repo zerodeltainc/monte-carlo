@@ -1,0 +1,11 @@
+# Trade Simulator Requirements
+
+# Python version: 3.7+
+
+# For CLI version (trade_simulator.py)
+# No external dependencies - uses only standard library
+
+# For Streamlit web app (app.py)
+streamlit>=1.28.0
+plotly>=5.17.0
+pandas>=2.0.0
